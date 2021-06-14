@@ -4,7 +4,8 @@
 <hr>
 
 <h5 align=center>This theme is only for BetterDiscord</h5><br>
-<p align=center>and it should work with all themes, just activate both of them<p>
+<p align=center>and it should work with all themes, just activate both of them<p> <br>
+ <p align=center>If you have ideas, just send them to me on Discord</p>
 
 <hr>
 <h4 align=center>PayPal</h4>
