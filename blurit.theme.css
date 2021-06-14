@@ -1,0 +1,50 @@
+/**
+ * @name Blur IT
+ * @author ara
+ * @version 1.0
+ * @authorId 307903641111494656
+ * @invite FkWpu4JSp2
+ * @description Blur your private information!
+*/
+
+/* Blur text for subscription */
+
+.paymentSourceLabel-1lo4Ca {
+    color: transparent;
+    transition: all 0.3s ease 0s;
+    text-shadow: 0 0 8px rgb(220, 221, 222);
+}
+
+.paymentSourceLabel-1lo4Ca:hover {
+    color: rgb(220, 221, 222);
+    text-shadow: none;
+    transition: all 0.3s ease 0s;
+}
+
+/* Blur text for billing */
+
+.subText-V8PTt8 {
+    color: transparent;
+    transition: all 0.3s ease 0s;
+    text-shadow: 0 0 8px rgb(81, 80, 80);
+}
+
+.subText-V8PTt8:hover {
+    color: rgb(202, 202, 202);
+    text-shadow: none;
+    transition: all 0.3s ease 0s;
+}
+
+/* Blur text for Credit */
+
+.description-HxwDO4 strong {
+    color: transparent;
+    transition: all 0.3s ease 0s;
+    text-shadow: 0 0 8px rgb(81, 80, 80);
+}
+
+.description-HxwDO4 strong:hover {
+    color: rgb(202, 202, 202);
+    text-shadow: none;
+    transition: all 0.3s ease 0s;
+}
