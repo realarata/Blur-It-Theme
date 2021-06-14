@@ -18,8 +18,7 @@
 <br>
 <a href="https://gifyu.com/image/1b7v"><img src="https://s6.gifyu.com/images/NkbNxyVJ.gif" alt="paypa2"/></a> <br>
 <hr>
-<h4 align=center>Credit card</h4><br>
-<p align=center>There's a little problem with the credit card blur, but I'm too lazy to fix it now.</p>
+<h4 align=center>Credit card</h4>
 <hr>
 <a href="https://gifyu.com/image/1bdb"><img src="https://s6.gifyu.com/images/Vk4htkxC.gif" alt="master1"/></a><br>
 <br>
