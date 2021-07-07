@@ -2,10 +2,6 @@
 
 <h4 align=center>This theme is Made by ara#0002</h4>
 <hr>
-<p align=center>
- | <a href="https://discord.gg/59EF7K5qVE" align=center>Discord</a> |
- 
- </p>
 <h5 align=center>This theme is only for BetterDiscord</h5><br>
 <p align=center>and it should work with all themes, just activate both of them<p> <br>
  <p align=center>If you have ideas, please send them to the Suggest-Idea channel in our Discord server</p> <br>
