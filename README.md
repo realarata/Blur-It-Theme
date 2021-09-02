@@ -4,7 +4,6 @@
 <hr>
 <h5 align=center>This theme is only for BetterDiscord</h5><br>
 <p align=center>and it should work with all themes, just activate both of them<p> <br>
- <p align=center>If you have ideas, please send them to the Suggest-Idea channel in our Discord server</p> <br>
  <p align=center>I did this just for fun</p>
 
 <hr>
