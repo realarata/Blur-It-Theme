@@ -3,7 +3,7 @@
 <h4 align=center>This theme is Made by ara#0002</h4>
 <hr>
 <h5 align=center>This theme is only for BetterDiscord</h5><br>
-<p align=center>and it should work with all themes, just activate both of them<p> <br>
+<p align=center>and it should work with all themes, just activate both of them<p>
  <p align=center>I did this just for fun</p>
 
 <hr>
