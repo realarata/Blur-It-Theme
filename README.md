@@ -18,3 +18,7 @@
 <a href="https://gifyu.com/image/1bdb"><img src="https://s6.gifyu.com/images/Vk4htkxC.gif" alt="master1"/></a><br>
 <br>
 <a href="https://gifyu.com/image/1bdf"><img src="https://s6.gifyu.com/images/6Drt8Oof.gif" alt="master2"/></a>
+<hr>
+<h4 align=center>Update 1.6</h4>
+<hr>
+Updated for all new changes, I don't know if credit card still works if not dm me on discord, my discord name is in the readme
