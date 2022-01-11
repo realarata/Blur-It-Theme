@@ -9,21 +9,17 @@
 
 /* Blur text for subscription */
 
-.select-1Ia3hD {
+.paymentSourceLabel-1z_EVr {
     color: transparent;
     transition: all 0.3s ease 0s;
     border-radius: 10px;
     text-shadow: 0 0 8px rgb(220, 221, 222);
 }
 
-.select-1Ia3hD:hover {
+.paymentSourceLabel-1z_EVr:hover {
     color: rgb(220, 221, 222);
     text-shadow: none;
     transition: all 0.3s ease 0s;
-}
-
-.icons-2dXYop {
-    color: white;
 }
 
 /* Blur text for billing */
