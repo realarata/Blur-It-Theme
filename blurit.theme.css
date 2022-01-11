@@ -1,7 +1,7 @@
 /**
  * @name Blur IT
  * @author ara#0002
- * @version 1.5
+ * @version 1.6
  * @source https://github.com/realarata/Blur-It-Theme/
  * @authorId 815732190875746365
  * @description Blur your private information!
@@ -9,31 +9,37 @@
 
 /* Blur text for subscription */
 
-.paymentSourceLabel-1lo4Ca {
+.select-1Ia3hD {
     color: transparent;
     transition: all 0.3s ease 0s;
+    border-radius: 10px;
     text-shadow: 0 0 8px rgb(220, 221, 222);
 }
 
-.paymentSourceLabel-1lo4Ca:hover {
+.select-1Ia3hD:hover {
     color: rgb(220, 221, 222);
     text-shadow: none;
     transition: all 0.3s ease 0s;
 }
 
+.icons-2dXYop {
+    color: white;
+}
+
 /* Blur text for billing */
 
-.subText-V8PTt8 {
+.subText-3Yps8e {
     color: transparent;
     transition: all 0.3s ease 0s;
     text-shadow: 0 0 8px rgb(81, 80, 80);
 }
 
-.subText-V8PTt8:hover {
+.subText-3Yps8e:hover {
     color: rgb(202, 202, 202);
     text-shadow: none;
     transition: all 0.3s ease 0s;
 }
+
 
 /* Blur text for Credit */
 
