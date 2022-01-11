@@ -1,5 +1,6 @@
-<h1 align=center>Blur IT</h1>
+<img src="https://camo.githubusercontent.com/6f37845a18c158b38722ce2dc1af9ba3e25d1f892f6946e1809cb7c6d305613d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4265747465722d446973636f72642d2532333539363345423f7374796c653d666f722d7468652d6261646765" alt="Better Discord" data-canonical-src="https://img.shields.io/badge/Better-Discord-%235963EB?style=for-the-badge" >
 
+<h1 align=center>Blur IT</h1>
 <h4 align=center>This theme is Made by ara#0002</h4>
 <hr>
 <h5 align=center>This theme is only for BetterDiscord</h5><br>
