@@ -22,4 +22,4 @@
 <h4 align=center>Update 1.6</h4>
 <hr>
 <br>
-Updated for all new changes, I don't know if credit card still works if not dm me on discord<br>, my discord name is in the readme
+Updated for all new changes, I don't know if credit card still works if not dm me on discord,<br> my discord name is in the readme
