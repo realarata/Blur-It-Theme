@@ -39,13 +39,15 @@
 
 /* Blur text for Credit */
 
-.description-HxwDO4 strong {
+/* Blur text for Credit */
+
+.description-1pzois strong {
     color: transparent;
     transition: all 0.3s ease 0s;
     text-shadow: 0 0 8px rgb(81, 80, 80);
 }
 
-.description-HxwDO4 strong:hover {
+.description-1pzois strong:hover {
     color: rgb(202, 202, 202);
     text-shadow: none;
     transition: all 0.3s ease 0s;
